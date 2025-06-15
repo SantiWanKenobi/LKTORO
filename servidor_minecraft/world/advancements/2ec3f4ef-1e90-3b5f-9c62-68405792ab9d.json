@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-15 15:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-15 04:02:16 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-15 15:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-15 15:42:40 +0000"
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 15:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-15 03:57:25 +0000"
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 15:50:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-06-15 04:14:45 +0000"
@@ -323,6 +347,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-06-15 15:49:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-15 03:59:02 +0000"
@@ -338,6 +368,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-15 04:02:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-15 15:51:00 +0000"
     },
     "done": true
   },
@@ -376,6 +412,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-15 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 15:51:12 +0000"
     },
     "done": true
   },
@@ -451,6 +493,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 15:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:02:16 +0000"
@@ -490,6 +538,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-15 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-06-15 15:55:34 +0000"
     },
     "done": true
   },
@@ -535,9 +589,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-15 15:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-15 03:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 15:50:40 +0000"
     },
     "done": true
   },
@@ -676,6 +742,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-15 03:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-15 15:53:04 +0000"
     },
     "done": true
   },
@@ -835,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-15 15:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-15 04:36:30 +0000"
@@ -851,6 +929,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-15 04:18:27 +0000",
       "minecraft:spider": "2025-06-15 04:09:09 +0000",
+      "minecraft:creeper": "2025-06-15 15:50:35 +0000",
       "minecraft:zombie": "2025-06-15 04:09:48 +0000"
     },
     "done": false
@@ -915,6 +994,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-06-15 15:55:34 +0000"
+    },
+    "done": true
+  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2025-06-15 03:54:51 +0000"
@@ -927,9 +1012,21 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2025-06-15 15:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-15 04:36:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 15:51:44 +0000"
     },
     "done": true
   },
@@ -1065,6 +1162,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 15:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-06-15 04:03:01 +0000"
@@ -1074,6 +1177,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-15 04:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-15 15:54:12 +0000"
     },
     "done": true
   },
@@ -1329,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-15 15:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-15 03:58:59 +0000"
@@ -1350,6 +1465,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/kangaroo_hide_to_leather": {
+    "criteria": {
+      "has_items": "2025-06-15 15:50:23 +0000"
     },
     "done": true
   },
@@ -1449,6 +1570,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/banner_pattern_australia_0": {
+    "criteria": {
+      "has_items": "2025-06-15 15:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-15 03:58:59 +0000"
@@ -1545,6 +1672,12 @@
     },
     "done": true
   },
+  "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 15:50:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-15 15:42:40 +0000"
@@ -1554,6 +1687,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-06-15 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 15:52:39 +0000"
     },
     "done": true
   },
@@ -1744,6 +1883,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-15 04:20:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 15:51:50 +0000"
     },
     "done": true
   },

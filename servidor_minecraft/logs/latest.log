@@ -438,3 +438,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperit
 [15Jun2025 15:51:44.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Knowledge of Death]
 [15Jun2025 15:51:44.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has reached the goal [Here They Come]
 [15Jun2025 15:51:50.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Knowledge raises the soul]
+[15Jun2025 15:53:04.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Sweet Dreams]
+[15Jun2025 15:53:38.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Ashes 'n Bones]
+[15Jun2025 15:56:50.274] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ad03775
+[15Jun2025 15:56:50.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:45977] logged in with entity id 5432 at (-58.5, 64.0, 96.5)
+[15Jun2025 15:56:50.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
+[15Jun2025 15:56:50.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Orcz Challenges]
+[15Jun2025 15:57:23.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebsydgf0 lost connection: Disconnected
+[15Jun2025 15:57:23.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 left the game
+[15Jun2025 15:57:34.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi has made the advancement [Magic Writing]
+[15Jun2025 16:02:10.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi was slain by Mimic
+[15Jun2025 16:02:10.341] [Server thread/INFO] [tombstone/]: The player Santi_Wan_Kenobi has successfully been saved
+[15Jun2025 16:02:59.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <guillebz02> 85285
+[15Jun2025 16:04:18.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <guillebz02> -/TP GUILLEBZ02 SANTI
+[15Jun2025 16:06:33.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Stone Age]
+[15Jun2025 16:07:34.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Getting an Upgrade]
+[15Jun2025 16:07:56.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Monster Hunter]
+[15Jun2025 16:08:38.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guillebz02 lost connection: Disconnected
+[15Jun2025 16:08:38.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 left the game
+[15Jun2025 16:09:54.420] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4798cf7b
+[15Jun2025 16:09:54.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:38441] logged in with entity id 9827 at (176.3037657582576, 76.0, 248.8713587203114)
+[15Jun2025 16:09:54.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
+[15Jun2025 16:11:10.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [A Strange Grave Dust]
