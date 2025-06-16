@@ -458,7 +458,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2025-06-16 04:00:26 +0000",
-      "redwood_forest": "2025-06-16 03:54:57 +0000"
+      "old_growth_woodland": "2025-06-16 15:28:10 +0000",
+      "redwood_forest": "2025-06-16 03:54:57 +0000",
+      "lavender_field": "2025-06-16 15:18:05 +0000"
     },
     "done": false
   },
@@ -489,6 +491,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-06-16 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-16 15:27:50 +0000"
     },
     "done": true
   },
@@ -594,6 +602,7 @@
       "minecraft:skeleton": "2025-06-16 02:25:44 +0000",
       "minecraft:spider": "2025-06-16 02:13:39 +0000",
       "minecraft:creeper": "2025-06-16 02:17:31 +0000",
+      "minecraft:enderman": "2025-06-16 15:23:52 +0000",
       "minecraft:zombie": "2025-06-16 02:20:09 +0000"
     },
     "done": false
@@ -667,6 +676,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 02:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-06-16 15:18:21 +0000"
     },
     "done": true
   },
@@ -1656,6 +1671,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 15:18:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-16 03:12:29 +0000"
@@ -1944,6 +1965,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-16 03:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-06-16 15:27:50 +0000"
     },
     "done": true
   },
@@ -2754,6 +2781,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-16 03:39:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-06-16 15:18:34 +0000"
     },
     "done": true
   },

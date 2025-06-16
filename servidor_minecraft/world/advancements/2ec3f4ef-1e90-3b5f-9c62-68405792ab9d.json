@@ -728,6 +728,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-06-16 04:39:32 +0000",
+      "mediterranean_forest": "2025-06-16 15:27:21 +0000",
       "lush_desert": "2025-06-16 04:38:03 +0000",
       "rainforest": "2025-06-16 04:38:04 +0000"
     },
@@ -1180,6 +1181,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-16 15:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-16 00:57:33 +0000"
@@ -1237,6 +1244,12 @@
   "bloodmagic:recipes/bloodmagictab/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-06-16 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-16 15:32:15 +0000"
     },
     "done": true
   },
@@ -1474,6 +1487,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-16 15:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-15 04:23:39 +0000"
@@ -1558,6 +1577,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-16 15:27:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-15 03:59:40 +0000"
@@ -1597,6 +1622,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-16 01:46:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-16 15:28:07 +0000"
     },
     "done": true
   },
@@ -1859,6 +1890,12 @@
   "chococraft:recipes/chococraft/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-06-16 01:19:56 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-06-16 15:31:05 +0000"
     },
     "done": true
   },
@@ -2380,6 +2417,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/flying_fish_boots": {
+    "criteria": {
+      "has_items": "2025-06-16 15:29:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-06-15 15:39:05 +0000"
@@ -2395,6 +2438,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-15 04:05:22 +0000",
+      "cooked_beef": "2025-06-16 15:27:32 +0000",
       "apple": "2025-06-15 04:19:42 +0000",
       "bread": "2025-06-16 00:57:15 +0000",
       "rotten_flesh": "2025-06-16 03:49:45 +0000",
@@ -3263,6 +3307,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-16 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-06-16 15:31:19 +0000"
     },
     "done": true
   },
