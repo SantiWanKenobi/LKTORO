@@ -1042,6 +1042,12 @@
     },
     "done": true
   },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-16 02:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-16 01:16:37 +0000"
@@ -2387,15 +2393,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
-    "criteria": {
-      "has_item": "2025-06-16 01:47:31 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute": {
     "criteria": {
       "has_item": "2025-06-16 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-06-16 01:47:31 +0000"
     },
     "done": true
   },
@@ -2416,6 +2422,17 @@
       "has_white_wool": "2025-06-15 04:02:16 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2025-06-16 02:10:17 +0000",
+      "seared_ingot_tank": "2025-06-16 02:10:30 +0000",
+      "seared_fuel_gauge": "2025-06-16 02:11:05 +0000",
+      "seared_basin": "2025-06-16 02:10:19 +0000",
+      "seared_faucet": "2025-06-16 02:12:13 +0000",
+      "seared_melter": "2025-06-16 02:11:55 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/tools/tools/building/flint_and_brick": {
     "criteria": {
@@ -2495,15 +2512,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-16 01:46:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-16 01:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 01:46:09 +0000"
     },
     "done": true
   },
