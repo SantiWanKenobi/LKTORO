@@ -538,6 +538,7 @@
       "minecraft:skeleton": "2025-06-16 01:52:27 +0000",
       "minecraft:spider": "2025-06-16 01:07:20 +0000",
       "minecraft:creeper": "2025-06-16 01:55:57 +0000",
+      "minecraft:enderman": "2025-06-16 02:20:16 +0000",
       "minecraft:zombie": "2025-06-16 01:08:27 +0000"
     },
     "done": false
@@ -1445,6 +1446,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-16 02:17:22 +0000"
     },
     "done": true
   },

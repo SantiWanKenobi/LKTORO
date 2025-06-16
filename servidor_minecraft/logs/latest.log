@@ -919,3 +919,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperit
 [16Jun2025 02:16:25.669] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ea2e386
 [16Jun2025 02:16:25.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:35011] logged in with entity id 8409 at (113.33595918910045, 71.0, 277.69999998807907)
 [16Jun2025 02:16:25.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
+[16Jun2025 02:16:55.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/8787, l='ServerLevel[world]', x=-456.50, y=52.00, z=148.50]
+[16Jun2025 02:17:22.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Daens has made the advancement [A Strange Grave Dust]
+[16Jun2025 02:18:02.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Daens> 0 342
+[16Jun2025 02:18:12.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guillebz02 lost connection: Disconnected
+[16Jun2025 02:18:12.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 left the game
+[16Jun2025 02:18:21.006] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73c471d0
+[16Jun2025 02:18:21.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:41275] logged in with entity id 10232 at (114.30536999478053, 72.0, 277.6187521572576)
+[16Jun2025 02:18:21.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
+[16Jun2025 02:19:03.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SamaeL03 has made the advancement [Acquire Hardware]
+[16Jun2025 02:19:16.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: McYisus02 moved wrongly!
+[16Jun2025 02:19:25.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 was slain by Zombie
+[16Jun2025 02:19:25.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Your First Grave]
+[16Jun2025 02:19:25.701] [Server thread/INFO] [tombstone/]: The player guillebz02 has successfully been saved
+[16Jun2025 02:19:34.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi was slain by Zombie
+[16Jun2025 02:19:34.914] [Server thread/INFO] [tombstone/]: The player Santi_Wan_Kenobi has successfully been saved
+[16Jun2025 02:19:37.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SamaeL03 has made the advancement [Suit Up]
+[16Jun2025 02:19:49.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-682, y=80, z=81} BlockPos{x=-681, y=78, z=81}
+[16Jun2025 02:23:13.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daens lost connection: Disconnected
+[16Jun2025 02:23:13.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Daens left the game
+[16Jun2025 02:23:55.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guillebz02 lost connection: Disconnected
+[16Jun2025 02:23:55.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 left the game
+[16Jun2025 02:24:04.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SamaeL03 has made the advancement [Isn't It Iron Pick]
+[16Jun2025 02:24:34.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: McYisus02 has made the advancement [First Age]
+[16Jun2025 02:24:44.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14f941eb
+[16Jun2025 02:24:44.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daens[/127.24.187.61:59943] logged in with entity id 14831 at (-7.347832790595289, 64.0, 263.4205746417619)
+[16Jun2025 02:24:44.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Daens joined the game
+[16Jun2025 02:25:14.908] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7501c46e
+[16Jun2025 02:25:14.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:57269] logged in with entity id 15048 at (121.69999998807907, 69.0, 288.10946640266445)
+[16Jun2025 02:25:14.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
+[16Jun2025 02:26:05.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: McYisus02 has made the advancement [Chest Slayer]
+[16Jun2025 02:26:06.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: McYisus02 has made the advancement [Amateur Archaeologist]
