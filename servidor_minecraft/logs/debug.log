@@ -4265,3 +4265,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 16:31:03.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi left the game
 [16Jun2025 16:31:39.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 16:31:39.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 16:36:39.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 16:36:39.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 16:41:39.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 16:41:39.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
