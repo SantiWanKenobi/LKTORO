@@ -415,3 +415,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperit
 [16Jun2025 00:12:47.911] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.thermal_expansion due to unsatisfied mod condition.
 [16Jun2025 00:12:47.912] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.waila due to unsatisfied mod condition.
 [16Jun2025 00:12:47.913] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[16Jun2025 00:57:02.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7799157e
+[16Jun2025 00:57:02.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebsydgf0[/127.39.3.177:33527] logged in with entity id 544 at (-6.497075404926748, 64.0, 359.397855395852)
+[16Jun2025 00:57:02.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 joined the game
+[16Jun2025 00:58:10.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=64, z=344} BlockPos{x=-54, y=63, z=345}
+[16Jun2025 00:58:10.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-52, y=64, z=344} BlockPos{x=-54, y=63, z=345}
+[16Jun2025 00:58:10.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=65, z=342} BlockPos{x=-56, y=63, z=341}
+[16Jun2025 00:58:11.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=65, z=339} BlockPos{x=-55, y=63, z=338}
+[16Jun2025 00:58:24.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=65, z=348} BlockPos{x=-15, y=63, z=350}

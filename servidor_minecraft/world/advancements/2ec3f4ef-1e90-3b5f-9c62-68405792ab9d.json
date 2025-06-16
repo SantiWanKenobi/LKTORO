@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:14:45 +0000"
@@ -405,6 +411,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-15 04:05:22 +0000",
       "apple": "2025-06-15 04:19:42 +0000",
+      "bread": "2025-06-16 00:57:15 +0000",
       "melon_slice": "2025-06-15 04:11:48 +0000"
     },
     "done": false
@@ -613,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-06-15 04:14:45 +0000"
@@ -622,6 +635,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-15 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
     },
     "done": true
   },
@@ -850,6 +869,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
     },
     "done": true
   },
@@ -1210,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-15 15:42:40 +0000"
@@ -1291,6 +1322,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-06-15 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
     },
     "done": true
   },
@@ -1435,6 +1472,12 @@
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2025-06-15 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
     },
     "done": true
   },
@@ -1886,6 +1929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-15 15:51:50 +0000"
@@ -1967,6 +2016,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 00:57:33 +0000"
     },
     "done": true
   },
