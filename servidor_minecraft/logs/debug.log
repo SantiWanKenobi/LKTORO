@@ -3328,3 +3328,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperit
 [16Jun2025 00:14:37.327] [Server thread/DEBUG] [mixin/]: Mixing swimming.server.ServerGamePacketListenerImplMixin from expandability.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
 [16Jun2025 00:17:47.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 00:17:47.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:22:47.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:22:47.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 00:27:47.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 00:27:47.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
