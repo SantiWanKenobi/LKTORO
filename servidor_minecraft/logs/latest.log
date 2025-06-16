@@ -1,112 +1,110 @@
-[15Jun2025 15:32:53.269] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[15Jun2025 15:32:53.273] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
-[15Jun2025 15:32:53.401] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LKTORO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[15Jun2025 15:32:54.068] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[15Jun2025 15:32:54.070] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[15Jun2025 15:32:54.073] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[15Jun2025 15:32:54.075] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[15Jun2025 15:32:54.226] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[15Jun2025 15:32:56.401] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Jun2025 15:32:56.425] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
-[15Jun2025 15:32:56.430] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
-[15Jun2025 15:32:56.596] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[15Jun2025 15:32:56.600] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Jun2025 15:32:56.636] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jun2025 15:32:56.680] [main/WARN] [mixin/]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jun2025 15:32:57.212] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
-[15Jun2025 15:32:57.667] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[15Jun2025 15:32:57.668] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[15Jun2025 15:32:57.669] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[15Jun2025 15:32:57.670] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[15Jun2025 15:32:57.671] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[15Jun2025 15:32:57.671] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[15Jun2025 15:32:57.678] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[15Jun2025 15:32:57.680] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[15Jun2025 15:32:57.811] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15Jun2025 15:33:02.176] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
-[15Jun2025 15:33:05.733] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[15Jun2025 15:33:05.928] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[15Jun2025 15:33:05.984] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[15Jun2025 15:33:05.991] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[15Jun2025 15:33:07.905] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[15Jun2025 15:33:08.008] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[15Jun2025 15:33:08.046] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[15Jun2025 15:33:08.088] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[15Jun2025 15:33:08.088] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[15Jun2025 15:33:08.450] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[15Jun2025 15:33:08.582] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
-[15Jun2025 15:33:08.595] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/23ca639241d73eaf919246602470f295
-[15Jun2025 15:33:08.602] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/d8f3c48219d933a6b2302c4d780df514
-[15Jun2025 15:33:08.606] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/dd94e2f3f0db361b8621d0f834adec1b
-[15Jun2025 15:33:08.607] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/59f1974289d63eb58cbd6fe813098096
-[15Jun2025 15:33:08.617] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/fd8d1482ead03ca8a9954263aa7f6289
-[15Jun2025 15:33:16.255] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_netherfish]' to registry
-[15Jun2025 15:33:16.255] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_nether_silverfish_extra]' to registry
-[15Jun2025 15:33:16.256] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_netherfish]' to registry
-[15Jun2025 15:33:16.256] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_nether_silverfish_extra]' to registry
-[15Jun2025 15:33:16.257] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_netherfish]' to registry
-[15Jun2025 15:33:16.260] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_nether_silverfish_extra]' to registry
-[15Jun2025 15:33:16.260] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_netherfish]' to registry
-[15Jun2025 15:33:16.260] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_nether_silverfish_extra]' to registry
-[15Jun2025 15:33:16.822] [main/INFO] [wayoftime.bloodmagic.BloodMagic/]: Attempting to register Tile Entities
-[15Jun2025 15:33:17.707] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `blood`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
-[15Jun2025 15:33:17.711] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_flowing`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
-[15Jun2025 15:33:17.711] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `poison`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
-[15Jun2025 15:33:17.712] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `poison_flowing`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
-[15Jun2025 15:33:17.728] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[15Jun2025 15:33:17.729] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[15Jun2025 15:33:17.857] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[15Jun2025 15:33:18.868] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[15Jun2025 15:33:18.868] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[15Jun2025 15:33:18.949] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[15Jun2025 15:33:18.950] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[15Jun2025 15:33:18.952] [Thread-0/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[15Jun2025 15:33:18.954] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/LKTORO/servidor_minecraft/config/rottencreatures-common.toml is not correct. Correcting
-[15Jun2025 15:33:18.955] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
-[15Jun2025 15:33:19.445] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[15Jun2025 15:33:19.471] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[15Jun2025 15:33:19.523] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
-[15Jun2025 15:33:19.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[15Jun2025 15:33:20.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: BETA Current: 1.17.10 Target: null
-[15Jun2025 15:33:20.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[15Jun2025 15:33:20.232] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[15Jun2025 15:33:20.237] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[15Jun2025 15:33:20.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 1.12.2.94 Target: null
-[15Jun2025 15:33:20.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[15Jun2025 15:33:20.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 3.0.1 Target: null
-[15Jun2025 15:33:20.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
-[15Jun2025 15:33:21.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
-[15Jun2025 15:33:21.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[15Jun2025 15:33:22.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10 Target: null
-[15Jun2025 15:33:22.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[15Jun2025 15:33:22.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.23 Target: null
-[15Jun2025 15:33:22.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[15Jun2025 15:33:22.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
-[15Jun2025 15:33:22.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[15Jun2025 15:33:22.344] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 4.0.1.343 Target: 4.0.1.379
-[15Jun2025 15:33:22.344] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[15Jun2025 15:33:22.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.10 Target: null
-[15Jun2025 15:33:22.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Jun2025 15:33:22.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[15Jun2025 15:33:25.461] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Jun2025 15:33:29.457] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/LKTORO/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2376!/assets/.mcassetsroot' uses unexpected schema
-[15Jun2025 15:33:29.460] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/LKTORO/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2376!/data/.mcassetsroot' uses unexpected schema
-[15Jun2025 15:33:31.718] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.719] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.720] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.722] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.726] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.729] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.733] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.733] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
-[15Jun2025 15:33:31.734] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
-[15Jun2025 15:33:34.434] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15Jun2025 15:33:34.439] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15Jun2025 15:33:34.442] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15Jun2025 15:33:34.447] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15Jun2025 15:33:34.450] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15Jun2025 15:33:35.908] [Worker-Main-6/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:freeze_immune_entity_types as it is missing following references: betteranimalsplus:feral_wolf (from betteranimalsplus-1.18.2-11.0.10-forge.jar)
-[15Jun2025 15:33:41.996] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/create
+[16Jun2025 00:11:12.465] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[16Jun2025 00:11:12.472] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[16Jun2025 00:11:15.071] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LKTORO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[16Jun2025 00:11:16.598] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[16Jun2025 00:11:16.603] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[16Jun2025 00:11:16.604] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[16Jun2025 00:11:16.606] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LKTORO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[16Jun2025 00:11:16.965] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[16Jun2025 00:11:20.247] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Jun2025 00:11:20.302] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[16Jun2025 00:11:20.304] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[16Jun2025 00:11:20.460] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[16Jun2025 00:11:20.472] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Jun2025 00:11:20.508] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jun2025 00:11:20.548] [main/WARN] [mixin/]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jun2025 00:11:21.306] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
+[16Jun2025 00:11:21.914] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[16Jun2025 00:11:21.916] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[16Jun2025 00:11:21.917] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[16Jun2025 00:11:21.921] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[16Jun2025 00:11:21.922] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[16Jun2025 00:11:21.922] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[16Jun2025 00:11:21.925] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[16Jun2025 00:11:21.927] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[16Jun2025 00:11:22.419] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16Jun2025 00:11:30.586] [main/INFO] [net.minecraftforge.coremod.CoreMod.uteamcore/COREMODLOG]: Injected ASMUContainerMenuHook call into ServerPlayer#initMenu
+[16Jun2025 00:11:33.629] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[16Jun2025 00:11:33.988] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[16Jun2025 00:11:34.017] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[16Jun2025 00:11:34.047] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[16Jun2025 00:11:36.935] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16Jun2025 00:11:36.990] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[16Jun2025 00:11:37.085] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[16Jun2025 00:11:37.228] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[16Jun2025 00:11:37.229] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[16Jun2025 00:11:37.742] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Injecting super coyotes...
+[16Jun2025 00:11:37.772] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/23ca639241d73eaf919246602470f295
+[16Jun2025 00:11:37.775] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/d8f3c48219d933a6b2302c4d780df514
+[16Jun2025 00:11:37.795] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/dd94e2f3f0db361b8621d0f834adec1b
+[16Jun2025 00:11:37.808] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/59f1974289d63eb58cbd6fe813098096
+[16Jun2025 00:11:37.827] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id betteranimalsplus:main_channel/fd8d1482ead03ca8a9954263aa7f6289
+[16Jun2025 00:11:37.955] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Jun2025 00:11:50.205] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_netherfish]' to registry
+[16Jun2025 00:11:50.206] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[16Jun2025 00:11:50.207] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_netherfish]' to registry
+[16Jun2025 00:11:50.208] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[16Jun2025 00:11:50.209] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_netherfish]' to registry
+[16Jun2025 00:11:50.209] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[16Jun2025 00:11:50.210] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_netherfish]' to registry
+[16Jun2025 00:11:50.211] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[16Jun2025 00:11:50.948] [main/INFO] [wayoftime.bloodmagic.BloodMagic/]: Attempting to register Tile Entities
+[16Jun2025 00:11:51.995] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `blood`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jun2025 00:11:51.997] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_flowing`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jun2025 00:11:51.998] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `poison`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jun2025 00:11:51.999] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `evilcraft` for name `poison_flowing`, expected `cyclopscore`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jun2025 00:11:52.016] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jun2025 00:11:52.019] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jun2025 00:11:52.284] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[16Jun2025 00:11:53.624] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[16Jun2025 00:11:53.626] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[16Jun2025 00:11:53.862] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[16Jun2025 00:11:53.869] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/LKTORO/servidor_minecraft/config/rottencreatures-common.toml is not correct. Correcting
+[16Jun2025 00:11:53.870] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[16Jun2025 00:11:55.183] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[16Jun2025 00:11:55.191] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[16Jun2025 00:11:55.356] [modloading-worker-0/INFO] [dev.itsmeow.betteranimalsplus.BetterAnimalsPlusMod/]: Overspawning lammergeiers...
+[16Jun2025 00:11:55.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[16Jun2025 00:11:56.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: BETA Current: 1.17.10 Target: null
+[16Jun2025 00:11:56.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[16Jun2025 00:11:56.694] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16Jun2025 00:11:56.701] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16Jun2025 00:11:57.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 1.12.2.94 Target: null
+[16Jun2025 00:11:57.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[16Jun2025 00:11:57.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 3.0.1 Target: null
+[16Jun2025 00:11:57.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
+[16Jun2025 00:11:58.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
+[16Jun2025 00:11:58.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Jun2025 00:11:58.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10 Target: null
+[16Jun2025 00:11:58.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[16Jun2025 00:11:58.741] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.23 Target: null
+[16Jun2025 00:11:58.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Jun2025 00:11:58.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 7.7.6 Target: null
+[16Jun2025 00:11:58.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[16Jun2025 00:11:58.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 4.0.1.343 Target: 4.0.1.379
+[16Jun2025 00:11:58.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[16Jun2025 00:11:58.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.10 Target: null
+[16Jun2025 00:11:58.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Jun2025 00:11:59.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[16Jun2025 00:12:06.136] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Jun2025 00:12:11.925] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/LKTORO/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2376!/assets/.mcassetsroot' uses unexpected schema
+[16Jun2025 00:12:11.929] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/LKTORO/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2376!/data/.mcassetsroot' uses unexpected schema
+[16Jun2025 00:12:15.418] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.419] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.422] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.424] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.428] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.429] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.432] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.435] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[16Jun2025 00:12:15.440] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[16Jun2025 00:12:18.529] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Jun2025 00:12:18.531] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Jun2025 00:12:18.534] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Jun2025 00:12:18.536] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Jun2025 00:12:18.537] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Jun2025 00:12:20.655] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:freeze_immune_entity_types as it is missing following references: betteranimalsplus:feral_wolf (from betteranimalsplus-1.18.2-11.0.10-forge.jar)
+[16Jun2025 00:12:28.308] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/create
 com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2376!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -157,7 +155,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[15Jun2025 15:33:42.008] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/thermal
+[16Jun2025 00:12:28.315] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/thermal
 com.google.gson.JsonSyntaxException: Unknown item 'thermal:rf_coil'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2376!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -208,7 +206,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:rf_coil'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[15Jun2025 15:33:42.076] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/immersive_engineering
+[16Jun2025 00:12:28.394] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/immersive_engineering
 com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2376!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -259,7 +257,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[15Jun2025 15:33:42.149] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/myst_ag
+[16Jun2025 00:12:28.455] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:meteor/myst_ag
 com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperity_shard'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2376!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -310,156 +308,110 @@ com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperit
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[15Jun2025 15:33:42.212] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 40 recipes
-[15Jun2025 15:33:44.724] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3869 advancements
-[15Jun2025 15:33:44.816] [Worker-Main-5/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 1.024956 ms
-[15Jun2025 15:33:44.906] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 94 dynamic modifiers and 17 modifier redirects in 88.312035 ms
-[15Jun2025 15:33:45.024] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 37 modifier tags for 126 modifiers in 118.564865 ms
-[15Jun2025 15:33:45.025] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 0.739231 ms
-[15Jun2025 15:33:45.046] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 49 spilling fluids in 18.817743 ms
-[15Jun2025 15:33:45.085] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 47 materials in 12.953505 ms
-[15Jun2025 15:33:45.232] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 147.244 ms
-[15Jun2025 15:33:45.362] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 127.16673 ms
-[15Jun2025 15:33:45.455] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 92.26692 ms
-[15Jun2025 15:33:45.476] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 34 tool definitions in 20.296305 ms
-[15Jun2025 15:33:45.486] [Worker-Main-5/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 9.745089 ms
-[15Jun2025 15:33:49.191] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[15Jun2025 15:33:49.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[15Jun2025 15:33:49.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Jun2025 15:33:49.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Jun2025 15:33:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Jun2025 15:33:49.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Jun2025 15:33:49.850] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Jun2025 15:33:49.969] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Jun2025 15:33:49.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Jun2025 15:33:49.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Jun2025 15:33:49.971] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Jun2025 15:33:50.326] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[15Jun2025 15:33:50.330] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[15Jun2025 15:33:50.342] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[15Jun2025 15:33:50.462] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[15Jun2025 15:33:50.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Jun2025 15:33:52.279] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.282] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTarantula from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.283] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPheasant from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.283] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.284] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.286] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.299] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.300] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.301] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.309] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.310] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.311] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.313] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.317] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.318] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityWhale from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.325] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityOctopus from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.332] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.332] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.335] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.340] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.349] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.350] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityReindeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.351] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBoar from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.356] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.357] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.359] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityMoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.363] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.363] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.364] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.365] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.366] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.369] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.370] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.371] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.372] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBarracuda from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.373] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
-[15Jun2025 15:33:52.376] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.377] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPiranha from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
-[15Jun2025 15:33:52.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Jun2025 15:33:54.780] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:54.796] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:54.803] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:54.814] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:54.820] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:55.290] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:55.623] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:56.120] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:56.619] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:57.117] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jun2025 15:33:57.620] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[15Jun2025 15:33:58.118] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[15Jun2025 15:33:58.616] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[15Jun2025 15:33:59.120] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[15Jun2025 15:33:59.634] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[15Jun2025 15:34:00.117] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[15Jun2025 15:34:00.620] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[15Jun2025 15:34:01.908] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9294 ms
-[15Jun2025 15:34:01.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.928s)! For help, type "help"
-[15Jun2025 15:34:02.033] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Jun2025 15:34:02.066] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[15Jun2025 15:34:02.099] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[15Jun2025 15:34:02.180] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[15Jun2025 15:34:02.182] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[15Jun2025 15:34:02.182] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[15Jun2025 15:34:02.183] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[15Jun2025 15:34:02.233] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.baubles due to unsatisfied mod condition.
-[15Jun2025 15:34:02.234] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.blood_magic due to unsatisfied config condition.
-[15Jun2025 15:34:02.235] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.ee3 due to unsatisfied mod condition.
-[15Jun2025 15:34:02.236] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.enderio due to unsatisfied mod condition.
-[15Jun2025 15:34:02.238] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.forestry due to unsatisfied mod condition.
-[15Jun2025 15:34:02.238] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.ic2 due to unsatisfied mod condition.
-[15Jun2025 15:34:02.239] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.immersiveengineering due to unsatisfied mod condition.
-[15Jun2025 15:34:02.239] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.thaumcraft due to unsatisfied mod condition.
-[15Jun2025 15:34:02.239] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.thermal_expansion due to unsatisfied mod condition.
-[15Jun2025 15:34:02.240] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.waila due to unsatisfied mod condition.
-[15Jun2025 15:34:02.243] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[15Jun2025 15:34:39.360] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orcz:orcz,mantle:network,citadel:main_channel,securitycraft:securitycraft,curios:main,tconstruct:network,botania:main,chococraft:main,usefulbackpacks:curios,morehitboxes:main,alexsmobs:main_channel,bloodmagic:main,tombstone:tombstone_channel,trapcraft:channel,patchouli:main,uteamcore:network,artifacts:main,mutantmonsters-1:play] rejected vanilla connections
-[15Jun2025 15:34:39.361] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[15Jun2025 15:34:48.453] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orcz:orcz,mantle:network,citadel:main_channel,securitycraft:securitycraft,curios:main,tconstruct:network,botania:main,chococraft:main,usefulbackpacks:curios,morehitboxes:main,alexsmobs:main_channel,bloodmagic:main,tombstone:tombstone_channel,trapcraft:channel,patchouli:main,uteamcore:network,artifacts:main,mutantmonsters-1:play] rejected vanilla connections
-[15Jun2025 15:34:48.453] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[15Jun2025 15:36:51.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a8f8a8
-[15Jun2025 15:36:51.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santi_Wan_Kenobi[/127.11.116.24:49795] logged in with entity id 495 at (161.14558296890306, -2.0, 232.032439083546)
-[15Jun2025 15:36:51.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi joined the game
-[15Jun2025 15:38:45.385] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55ba486e
-[15Jun2025 15:38:45.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebsydgf0[/127.39.3.177:50335] logged in with entity id 984 at (205.65704440382726, -38.0, 315.69925296017766)
-[15Jun2025 15:38:45.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 joined the game
-[15Jun2025 15:40:26.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santi_Wan_Kenobi lost connection: Disconnected
-[15Jun2025 15:40:26.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi left the game
-[15Jun2025 15:42:15.677] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3eeb8a33
-[15Jun2025 15:42:15.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santi_Wan_Kenobi[/127.11.116.24:38329] logged in with entity id 1505 at (161.4704608081288, -2.0, 232.0887311041541)
-[15Jun2025 15:42:15.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi joined the game
-[15Jun2025 15:49:37.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [We do a little trolling...]
-[15Jun2025 15:51:00.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [A Strange Grave Dust]
-[15Jun2025 15:51:11.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 was shot by Mutant Skeleton
-[15Jun2025 15:51:11.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Your First Grave]
-[15Jun2025 15:51:11.346] [Server thread/INFO] [tombstone/]: The player Sebsydgf0 has successfully been saved
-[15Jun2025 15:51:44.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Knowledge of Death]
-[15Jun2025 15:51:44.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has reached the goal [Here They Come]
-[15Jun2025 15:51:50.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Knowledge raises the soul]
-[15Jun2025 15:53:04.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Sweet Dreams]
-[15Jun2025 15:53:38.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Ashes 'n Bones]
-[15Jun2025 15:56:50.274] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ad03775
-[15Jun2025 15:56:50.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:45977] logged in with entity id 5432 at (-58.5, 64.0, 96.5)
-[15Jun2025 15:56:50.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
-[15Jun2025 15:56:50.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Orcz Challenges]
-[15Jun2025 15:57:23.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebsydgf0 lost connection: Disconnected
-[15Jun2025 15:57:23.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 left the game
-[15Jun2025 15:57:34.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi has made the advancement [Magic Writing]
-[15Jun2025 16:02:10.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi was slain by Mimic
-[15Jun2025 16:02:10.341] [Server thread/INFO] [tombstone/]: The player Santi_Wan_Kenobi has successfully been saved
-[15Jun2025 16:02:59.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <guillebz02> 85285
-[15Jun2025 16:04:18.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <guillebz02> -/TP GUILLEBZ02 SANTI
-[15Jun2025 16:06:33.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Stone Age]
-[15Jun2025 16:07:34.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Getting an Upgrade]
-[15Jun2025 16:07:56.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [Monster Hunter]
-[15Jun2025 16:08:38.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: guillebz02 lost connection: Disconnected
-[15Jun2025 16:08:38.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 left the game
-[15Jun2025 16:09:54.420] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4798cf7b
-[15Jun2025 16:09:54.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: guillebz02[/127.64.252.237:38441] logged in with entity id 9827 at (176.3037657582576, 76.0, 248.8713587203114)
-[15Jun2025 16:09:54.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 joined the game
-[15Jun2025 16:11:10.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: guillebz02 has made the advancement [A Strange Grave Dust]
-[15Jun2025 16:14:42.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi has made the advancement [Chest Slayer]
-[15Jun2025 16:14:43.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi has made the advancement [Amateur Archaeologist]
-[15Jun2025 16:22:38.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Santi_Wan_Kenobi has made the advancement [Suit Up]
+[16Jun2025 00:12:28.517] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 40 recipes
+[16Jun2025 00:12:30.937] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3869 advancements
+[16Jun2025 00:12:30.945] [Worker-Main-4/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 0.908136 ms
+[16Jun2025 00:12:30.997] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 94 dynamic modifiers and 17 modifier redirects in 51.31218 ms
+[16Jun2025 00:12:31.077] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 37 modifier tags for 126 modifiers in 79.94845 ms
+[16Jun2025 00:12:31.078] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 1.114753 ms
+[16Jun2025 00:12:31.084] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 49 spilling fluids in 6.421015 ms
+[16Jun2025 00:12:31.117] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 47 materials in 18.93353 ms
+[16Jun2025 00:12:31.192] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 74.287476 ms
+[16Jun2025 00:12:31.295] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 102.64898 ms
+[16Jun2025 00:12:31.431] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 135.78223 ms
+[16Jun2025 00:12:31.444] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 34 tool definitions in 12.694986 ms
+[16Jun2025 00:12:31.453] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 8.906789 ms
+[16Jun2025 00:12:34.434] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[16Jun2025 00:12:34.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[16Jun2025 00:12:34.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Jun2025 00:12:34.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Jun2025 00:12:34.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Jun2025 00:12:35.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Jun2025 00:12:35.160] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Jun2025 00:12:35.385] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Jun2025 00:12:35.386] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Jun2025 00:12:35.386] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Jun2025 00:12:35.387] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Jun2025 00:12:35.751] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[16Jun2025 00:12:35.756] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[16Jun2025 00:12:35.951] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[16Jun2025 00:12:35.952] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[16Jun2025 00:12:35.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Jun2025 00:12:37.443] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.445] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTarantula from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.446] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPheasant from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.446] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.447] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.451] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.454] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.456] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.457] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.458] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.460] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.466] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.470] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityWhale from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.478] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityOctopus from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.481] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.486] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.490] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.495] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.495] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.499] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityReindeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.499] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBoar from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.504] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.505] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityMoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.506] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.509] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.510] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.510] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.511] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.511] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.512] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.515] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.516] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBarracuda from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.517] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[16Jun2025 00:12:37.517] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.517] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPiranha from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[16Jun2025 00:12:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Jun2025 00:12:39.328] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:39.367] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:39.378] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:39.395] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:39.623] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:40.159] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:40.626] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:41.126] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:41.675] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:42.123] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:42.624] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jun2025 00:12:43.124] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[16Jun2025 00:12:43.622] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[16Jun2025 00:12:44.123] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[16Jun2025 00:12:44.623] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[16Jun2025 00:12:45.124] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[16Jun2025 00:12:45.623] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[16Jun2025 00:12:46.126] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[16Jun2025 00:12:46.622] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[16Jun2025 00:12:47.498] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9876 ms
+[16Jun2025 00:12:47.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.048s)! For help, type "help"
+[16Jun2025 00:12:47.754] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Jun2025 00:12:47.795] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[16Jun2025 00:12:47.811] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[16Jun2025 00:12:47.861] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[16Jun2025 00:12:47.863] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[16Jun2025 00:12:47.863] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[16Jun2025 00:12:47.864] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[16Jun2025 00:12:47.906] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.baubles due to unsatisfied mod condition.
+[16Jun2025 00:12:47.908] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.blood_magic due to unsatisfied config condition.
+[16Jun2025 00:12:47.908] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.ee3 due to unsatisfied mod condition.
+[16Jun2025 00:12:47.909] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.enderio due to unsatisfied mod condition.
+[16Jun2025 00:12:47.910] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.forestry due to unsatisfied mod condition.
+[16Jun2025 00:12:47.910] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.ic2 due to unsatisfied mod condition.
+[16Jun2025 00:12:47.911] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.immersiveengineering due to unsatisfied mod condition.
+[16Jun2025 00:12:47.911] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.thaumcraft due to unsatisfied mod condition.
+[16Jun2025 00:12:47.911] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.thermal_expansion due to unsatisfied mod condition.
+[16Jun2025 00:12:47.912] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.waila due to unsatisfied mod condition.
+[16Jun2025 00:12:47.913] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
