@@ -702,3 +702,61 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 04:18:26.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6855ms or 137 ticks behind
 [16Jun2025 04:18:47.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5812ms or 116 ticks behind
 [16Jun2025 04:19:05.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[16Jun2025 04:19:23.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: McYisus02 has reached the goal [Skyslime Island]
+[16Jun2025 04:19:33.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19894, l='ServerLevel[world]', x=-77.50, y=59.00, z=-85.50]
+[16Jun2025 04:19:35.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[16Jun2025 04:19:46.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20293, l='ServerLevel[world]', x=-71.50, y=47.00, z=-97.50]
+[16Jun2025 04:19:50.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20425, l='ServerLevel[world]', x=-77.50, y=52.00, z=-96.50]
+[16Jun2025 04:21:19.660] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1080, y=-54, z=-4184}
+[16Jun2025 04:21:33.142] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1098, y=-10, z=-4291}
+[16Jun2025 04:21:33.142] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1098, y=-10, z=-4290}
+[16Jun2025 04:21:37.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9404862131990086,0.0,-10.268619066607585
+[16Jun2025 04:21:37.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.932138172026356,0.0,-10.667004270164057
+[16Jun2025 04:21:37.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9244063440119561,0.0,-11.065550343200698
+[16Jun2025 04:21:37.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9174783785934011,0.0,-11.46424178736163
+[16Jun2025 04:21:37.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9115001498767441,0.0,-11.863063253417863
+[16Jun2025 04:21:37.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9065799282371216,0.0,-12.26199991750957
+[16Jun2025 04:21:37.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9027959729577759,0.0,-12.661037715457155
+[16Jun2025 04:21:37.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Daens> 1177, 64, -4179
+[16Jun2025 04:21:37.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9001995329034429,0.0,-13.060163538739403
+[16Jun2025 04:21:37.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.8988175491926285,0.0,-13.459365373620471
+[16Jun2025 04:21:37.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.8986627556470523,0.0,-13.858632187946228
+[16Jun2025 04:21:37.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.8997312677695533,0.0,-14.257954071404697
+[16Jun2025 04:21:37.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9020119129700674,0.0,-14.657322004132652
+[16Jun2025 04:21:37.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 0.9054792956379885,0.0,-15.056728102946522
+[16Jun2025 04:21:39.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16Jun2025 04:22:42.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: McYisus02 fell from a high place
+[16Jun2025 04:22:42.402] [Server thread/INFO] [tombstone/]: The player McYisus02 has successfully been saved
+[16Jun2025 04:23:28.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[16Jun2025 04:23:28.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 1.6304632486787938,0.0,-10.271393741035354
+[16Jun2025 04:23:28.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.538186595983916,0.0,-10.386062395917179
+[16Jun2025 04:23:28.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 1.6931733736279782,0.0,-10.66644734645979
+[16Jun2025 04:23:28.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.5588860804448359,0.0,-10.785526334221686
+[16Jun2025 04:23:28.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 1.7558834985771625,0.0,-11.061500951884227
+[16Jun2025 04:23:28.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.5795855649057557,0.0,-11.184990272526193
+[16Jun2025 04:23:28.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 1.818593623526347,0.0,-11.456554557308664
+[16Jun2025 04:23:28.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.6002850493666756,0.0,-11.5844542108307
+[16Jun2025 04:23:28.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 1.8813037484755313,0.0,-11.8516081627331
+[16Jun2025 04:23:28.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 1.9440138734247157,0.0,-12.246661768157537
+[16Jun2025 04:23:28.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.6209845338275954,0.0,-11.983918149135206
+[16Jun2025 04:23:28.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 2.0067239983739,0.0,-12.641715373581974
+[16Jun2025 04:23:28.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.6416840182885153,0.0,-12.383382087439713
+[16Jun2025 04:23:28.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 2.0694341233230844,0.0,-13.03676897900641
+[16Jun2025 04:23:28.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SamaeL03) moved too quickly! 0.6623835027494351,0.0,-12.78284602574422
+[16Jun2025 04:23:28.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of guillebz02) moved too quickly! 2.132144248272269,0.0,-13.431822584430847
+[16Jun2025 04:23:28.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: McYisus02 moved too quickly! -2.387887872122292,-0.7059086119877662,9.775846815910995
+[16Jun2025 04:23:48.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: McYisus02 has reached the goal [Here They Come]
+[16Jun2025 04:24:16.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Daens> 1194, 73, -4206
+[16Jun2025 04:24:43.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30404, l='ServerLevel[world]', x=114.50, y=12.00, z=-2522.50]
+[16Jun2025 04:25:42.891] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=796, y=-47, z=-4447}
+[16Jun2025 04:25:42.892] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=796, y=-47, z=-4449}
+[16Jun2025 04:25:50.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/32724, l='ServerLevel[world]', x=234.50, y=7.00, z=-3057.50]
+[16Jun2025 04:25:56.515] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/32946, l='ServerLevel[world]', x=213.50, y=8.00, z=-3060.50]
+[16Jun2025 04:26:00.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33031, l='ServerLevel[world]', x=229.50, y=7.00, z=-3054.50]
+[16Jun2025 04:26:09.215] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33342, l='ServerLevel[world]', x=163.50, y=6.00, z=-3166.50]
+[16Jun2025 04:26:11.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33403, l='ServerLevel[world]', x=224.50, y=13.00, z=-3054.50]
+[16Jun2025 04:26:18.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33627, l='ServerLevel[world]', x=214.50, y=13.00, z=-3055.50]
+[16Jun2025 04:26:34.876] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1094, y=-30, z=-4451}
+[16Jun2025 04:28:18.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jun2025 04:29:24.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SamaeL03 has made the advancement [Diamonds!]
+[16Jun2025 04:29:48.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

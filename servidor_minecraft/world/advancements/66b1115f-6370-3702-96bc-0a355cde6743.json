@@ -1594,6 +1594,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/kangaroo_burger": {
+    "criteria": {
+      "has_items": "2025-06-16 04:20:41 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2025-06-16 03:28:11 +0000"
@@ -1830,6 +1836,8 @@
       "minecraft:river": "2025-06-16 01:45:43 +0000",
       "minecraft:lukewarm_ocean": "2025-06-16 03:42:11 +0000",
       "minecraft:forest": "2025-06-16 01:36:25 +0000",
+      "minecraft:desert": "2025-06-16 04:26:28 +0000",
+      "minecraft:warm_ocean": "2025-06-16 04:22:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-16 03:15:16 +0000",
       "minecraft:savanna": "2025-06-16 01:44:20 +0000",
       "minecraft:plains": "2025-06-16 01:49:12 +0000"

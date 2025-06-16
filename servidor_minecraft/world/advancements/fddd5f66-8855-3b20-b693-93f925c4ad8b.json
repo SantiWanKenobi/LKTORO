@@ -592,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-06-16 04:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 03:10:37 +0000"
@@ -745,6 +751,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-15 15:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-16 04:18:34 +0000"
     },
     "done": true
   },
@@ -938,6 +950,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-16 02:37:10 +0000",
       "minecraft:spider": "2025-06-15 16:11:53 +0000",
+      "minecraft:enderman": "2025-06-16 04:18:32 +0000",
       "minecraft:zombie": "2025-06-15 16:07:56 +0000"
     },
     "done": false
