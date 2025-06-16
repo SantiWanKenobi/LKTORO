@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-16 14:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-06-16 04:42:01 +0000"
@@ -904,6 +910,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-15 04:18:27 +0000",
+      "minecraft:vindicator": "2025-06-16 14:27:38 +0000",
       "minecraft:spider": "2025-06-15 04:09:09 +0000",
       "minecraft:creeper": "2025-06-15 15:50:35 +0000",
       "minecraft:phantom": "2025-06-16 02:39:11 +0000",
@@ -2656,6 +2663,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-15 03:59:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-16 14:29:35 +0000"
     },
     "done": true
   },

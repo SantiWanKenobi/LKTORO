@@ -3755,3 +3755,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 14:26:27.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 14:26:27.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jun2025 14:29:35.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Magic Writing]
+[16Jun2025 14:30:27.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jun2025 14:30:55.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jun2025 14:31:27.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 14:31:27.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 14:34:25.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebsydgf0 lost connection: Disconnected
+[16Jun2025 14:34:25.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 left the game
+[16Jun2025 14:36:27.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 14:36:27.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

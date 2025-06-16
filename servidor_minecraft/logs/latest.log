@@ -609,3 +609,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2025 14:25:04.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 joined the game
 [16Jun2025 14:25:14.218] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/837, l='ServerLevel[world]', x=1599.34, y=69.83, z=-4656.09]
 [16Jun2025 14:29:35.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 has made the advancement [Magic Writing]
+[16Jun2025 14:30:27.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jun2025 14:30:55.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jun2025 14:34:25.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebsydgf0 lost connection: Disconnected
+[16Jun2025 14:34:25.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebsydgf0 left the game
