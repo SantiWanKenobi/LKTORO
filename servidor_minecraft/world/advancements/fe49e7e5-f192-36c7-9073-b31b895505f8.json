@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-15 03:59:51 +0000"
@@ -206,6 +212,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-16 02:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
     },
     "done": true
   },
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-06-15 03:53:40 +0000"
@@ -326,6 +344,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 01:11:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
     },
     "done": true
   },
@@ -368,6 +392,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-15 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
     },
     "done": true
   },
@@ -505,6 +535,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-16 04:39:33 +0000",
       "lush_desert": "2025-06-16 04:21:44 +0000",
       "rainforest": "2025-06-16 04:21:54 +0000"
     },
@@ -594,6 +625,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-06-15 03:53:53 +0000"
@@ -666,6 +703,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-15 04:21:05 +0000"
@@ -705,6 +748,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-16 02:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
     },
     "done": true
   },
@@ -900,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-16 04:41:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-16 02:09:00 +0000"
@@ -969,6 +1024,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-15 04:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-16 04:41:50 +0000"
     },
     "done": true
   },
@@ -1107,6 +1168,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
     },
     "done": true
   },
@@ -1315,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-16 04:41:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-06-15 03:53:40 +0000"
@@ -1402,6 +1475,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-16 02:09:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
     },
     "done": true
   },
@@ -1516,6 +1595,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
     },
     "done": true
   },
@@ -1687,6 +1772,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-06-16 04:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-15 04:20:30 +0000"
@@ -1836,6 +1927,7 @@
       "cooked_porkchop": "2025-06-16 02:34:44 +0000",
       "cooked_beef": "2025-06-15 04:03:02 +0000",
       "bread": "2025-06-16 01:16:49 +0000",
+      "rotten_flesh": "2025-06-16 04:30:14 +0000",
       "melon_slice": "2025-06-15 04:10:34 +0000"
     },
     "done": false
@@ -2273,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_slab_from_cut_orange_sandstone_stonecutting": {
     "criteria": {
       "has_cut_orange_sandstone": "2025-06-16 04:24:44 +0000"
@@ -2288,6 +2386,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
     },
     "done": true
   },
@@ -2324,6 +2428,12 @@
   "chococraft:recipes/chococraft/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2025-06-16 01:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
     },
     "done": true
   },
@@ -2747,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-16 02:09:00 +0000"
@@ -2936,6 +3052,18 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-15 04:00:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:37 +0000"
     },
     "done": true
   },

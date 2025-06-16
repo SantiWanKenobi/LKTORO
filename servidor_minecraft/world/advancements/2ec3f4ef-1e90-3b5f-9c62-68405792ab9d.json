@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-15 03:59:40 +0000"
@@ -284,6 +290,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-16 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
@@ -359,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-16 04:42:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-15 03:59:02 +0000"
@@ -386,6 +404,12 @@
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-06-15 04:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
@@ -695,6 +719,14 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-06-16 04:39:32 +0000",
+      "lush_desert": "2025-06-16 04:38:03 +0000",
+      "rainforest": "2025-06-16 04:38:04 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2025-06-16 01:20:58 +0000"
@@ -928,6 +960,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-16 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
@@ -1321,6 +1359,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 04:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-15 15:54:12 +0000"
@@ -1438,6 +1482,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
@@ -1622,6 +1672,9 @@
       "minecraft:river": "2025-06-15 03:57:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-16 03:50:54 +0000",
       "minecraft:forest": "2025-06-15 03:55:01 +0000",
+      "minecraft:desert": "2025-06-16 04:37:47 +0000",
+      "minecraft:jungle": "2025-06-16 04:38:17 +0000",
+      "minecraft:warm_ocean": "2025-06-16 04:35:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-16 03:53:19 +0000",
       "minecraft:savanna": "2025-06-15 04:09:41 +0000",
       "minecraft:plains": "2025-06-15 03:57:38 +0000"
@@ -2750,6 +2803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 04:42:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-06-16 00:57:33 +0000"
@@ -2810,6 +2869,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-16 04:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-15 03:59:40 +0000"
@@ -2852,6 +2917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-15 04:23:39 +0000"
@@ -2861,6 +2932,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-15 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
@@ -3380,6 +3457,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lush_desert": "2025-06-16 04:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-15 04:23:39 +0000"
@@ -3527,6 +3610,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-16 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
@@ -3731,6 +3820,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-15 04:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:41:18 +0000"
     },
     "done": true
   },
