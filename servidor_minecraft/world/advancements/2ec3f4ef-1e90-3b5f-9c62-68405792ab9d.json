@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-16 01:06:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-06-15 04:14:45 +0000"
@@ -878,6 +884,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-06-16 00:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-15 04:02:15 +0000"
@@ -955,6 +967,7 @@
       "minecraft:skeleton": "2025-06-15 04:18:27 +0000",
       "minecraft:spider": "2025-06-15 04:09:09 +0000",
       "minecraft:creeper": "2025-06-15 15:50:35 +0000",
+      "minecraft:enderman": "2025-06-16 01:07:37 +0000",
       "minecraft:zombie": "2025-06-15 04:09:48 +0000"
     },
     "done": false
@@ -1064,6 +1077,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-15 04:00:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-16 01:06:33 +0000"
     },
     "done": true
   },
@@ -1514,6 +1533,12 @@
   "alexsmobs:recipes/misc/kangaroo_hide_to_leather": {
     "criteria": {
       "has_items": "2025-06-15 15:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-16 01:06:33 +0000"
     },
     "done": true
   },

@@ -423,3 +423,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperit
 [16Jun2025 00:58:10.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=65, z=342} BlockPos{x=-56, y=63, z=341}
 [16Jun2025 00:58:11.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=65, z=339} BlockPos{x=-55, y=63, z=338}
 [16Jun2025 00:58:24.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=65, z=348} BlockPos{x=-15, y=63, z=350}
+[16Jun2025 01:02:40.988] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b260da1
+[16Jun2025 01:02:41.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daens[/127.24.187.61:59387] logged in with entity id 1666 at (83.66798286006701, 68.0, 281.0783472430801)
+[16Jun2025 01:02:41.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Daens joined the game
+[16Jun2025 01:07:20.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Daens has made the advancement [Monster Hunter]
+[16Jun2025 01:11:07.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Daens has made the advancement [Acquire Hardware]
