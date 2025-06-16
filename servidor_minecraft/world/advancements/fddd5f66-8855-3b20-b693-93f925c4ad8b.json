@@ -1,19 +1,19 @@
 {
-  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_furnace": "2025-06-16 02:31:33 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "in_water": "2025-06-15 16:01:09 +0000"
+      "has_mutton": "2025-06-16 02:28:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
@@ -26,6 +26,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
     },
     "done": true
   },
@@ -47,9 +53,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-16 02:31:15 +0000"
     },
     "done": true
   },
@@ -65,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-15 16:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
     },
     "done": true
   },
@@ -83,15 +131,9 @@
     },
     "done": true
   },
-  "chococraft:recipes/chococraft/gysahl_cake": {
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
-      "has_gysahl_green": "2025-06-15 16:04:30 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft/chocopedia": {
-    "criteria": {
-      "has_gysahl_green": "2025-06-15 16:04:30 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
@@ -101,9 +143,9 @@
     },
     "done": true
   },
-  "undergarden:undergarden/root": {
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "tick": "2025-06-15 15:56:50 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
@@ -113,33 +155,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sc_manual": {
+  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
-      "has_wood": "2025-06-15 15:57:58 +0000"
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-15 16:02:54 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-06-16 02:16:25 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/undergarden_group/slingshot": {
-    "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
-    "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
     },
     "done": true
   },
@@ -155,39 +179,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "chococraft:recipes/chococraft/choco_disguise_helmet": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
-      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "botania:recipes/botania/petal_green_double": {
     "criteria": {
-      "has_logs": "2025-06-15 15:57:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-06-15 15:56:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+      "has_item": "2025-06-16 02:28:16 +0000"
     },
     "done": true
   },
@@ -221,6 +227,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-06-16 02:31:52 +0000",
+      "mutton": "2025-06-16 02:30:13 +0000",
+      "cooked_salmon": "2025-06-16 02:33:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-15 16:06:23 +0000"
@@ -236,6 +250,614 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-15 16:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-15 16:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-15 16:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-16 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-16 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 16:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-15 15:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 16:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-15 16:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-15 16:01:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-15 16:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-15 16:01:09 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-15 16:07:56 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2025-06-15 16:12:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-06-16 02:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-16 02:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-16 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-16 02:37:10 +0000",
+      "minecraft:spider": "2025-06-15 16:11:53 +0000",
+      "minecraft:zombie": "2025-06-15 16:07:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-16 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2025-06-15 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:31:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-15 16:07:34 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-16 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-15 16:01:09 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 16:02:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:31:16 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-06-15 16:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-16 02:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-16 02:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-15 16:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-06-15 16:04:30 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-06-15 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-06-15 15:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-16 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-16 02:16:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/slingshot": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-16 02:37:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-15 15:57:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-16 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-06-15 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-16 02:38:13 +0000"
     },
     "done": true
   },
@@ -263,21 +885,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2025-06-15 16:06:33 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2025-06-15 16:04:30 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-06-15 16:06:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_black": {
+    "criteria": {
+      "has_item": "2025-06-16 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
@@ -293,15 +921,15 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "crafting_table": "2025-06-15 16:06:14 +0000"
+      "has_salmon": "2025-06-16 02:30:52 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "minecraft:story/root": {
     "criteria": {
-      "coded_trigger": "2025-06-16 02:19:25 +0000"
+      "crafting_table": "2025-06-15 16:06:14 +0000"
     },
     "done": true
   },
@@ -311,9 +939,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
@@ -329,21 +963,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
-      "has_raw_gold": "2025-06-15 16:11:14 +0000"
+      "has_diorite": "2025-06-16 02:38:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_wheat": "2025-06-15 16:12:10 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_planks": "2025-06-15 16:02:54 +0000"
+      "has_leather": "2025-06-16 02:31:15 +0000"
     },
     "done": true
   },
@@ -365,15 +999,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_diorite": "2025-06-16 02:38:13 +0000"
     },
     "done": true
   },
@@ -383,33 +1011,15 @@
     },
     "done": true
   },
-  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
-    "criteria": {
-      "has_torch": "2025-06-15 16:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-06-15 16:06:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-15 16:06:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2025-06-15 16:06:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
@@ -425,27 +1035,9 @@
     },
     "done": false
   },
-  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-06-15 15:57:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_the_recipe": "2025-06-15 16:06:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-06-15 16:06:33 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
@@ -455,33 +1047,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-15 16:05:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-06-15 16:01:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-15 16:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-15 16:11:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-15 16:02:54 +0000"
     },
     "done": true
   },
@@ -497,21 +1065,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-15 16:06:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "in_water": "2025-06-15 16:01:09 +0000"
+      "has_raw_iron": "2025-06-16 02:38:48 +0000"
     },
     "done": true
   },
@@ -533,27 +1095,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-06-15 16:04:30 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-06-15 16:07:56 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/chococraft/straw": {
-    "criteria": {
-      "has_wheat": "2025-06-15 16:12:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-16 02:31:15 +0000"
     },
     "done": true
   },
@@ -575,15 +1137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-06-15 16:06:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-15 16:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
@@ -593,12 +1155,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "usefulbackpacks:recipes/backpack_small": {
     "criteria": {
-      "minecraft:spider": "2025-06-15 16:11:53 +0000",
-      "minecraft:zombie": "2025-06-15 16:07:56 +0000"
+      "has_wool": "2025-06-16 02:28:01 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "botania:recipes/botania/petal_green": {
+    "criteria": {
+      "has_item": "2025-06-16 02:28:17 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
@@ -618,33 +1185,33 @@
     },
     "done": true
   },
-  "orcz:orczchallenge": {
+  "botania:recipes/botania/petal_black_double": {
     "criteria": {
-      "orczchallenge": "2025-06-15 15:56:50 +0000"
+      "has_item": "2025-06-16 02:27:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_stick": "2025-06-15 16:06:23 +0000"
+      "has_diorite": "2025-06-16 02:38:13 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "stone_pickaxe": "2025-06-15 16:07:34 +0000"
+      "has_cobbled_deepslate": "2025-06-16 02:40:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
-      "has_planks": "2025-06-15 16:02:54 +0000"
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
-      "in_water": "2025-06-15 16:01:09 +0000"
+      "has_white_wool": "2025-06-16 02:28:01 +0000"
     },
     "done": true
   },
@@ -660,21 +1227,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-16 02:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-16 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-06-15 16:06:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "chococraft:recipes/chococraft/chocobo_saddle": {
     "criteria": {
-      "has_planks": "2025-06-15 16:02:54 +0000"
+      "has_chocobo_feather": "2025-06-16 02:36:51 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-06-15 16:06:23 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-06-16 02:36:51 +0000"
     },
     "done": true
   },

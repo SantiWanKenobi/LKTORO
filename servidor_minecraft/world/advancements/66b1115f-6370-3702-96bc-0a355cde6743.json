@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-16 02:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-16 01:43:19 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-16 02:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-16 01:47:11 +0000"
@@ -134,6 +146,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-16 01:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-16 02:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 02:19:03 +0000"
@@ -338,6 +362,12 @@
   "chococraft:recipes/chococraft/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2025-06-16 01:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
     },
     "done": true
   },
@@ -401,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-16 02:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-16 02:10:14 +0000"
@@ -425,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-16 01:54:26 +0000"
@@ -440,6 +482,18 @@
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-16 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/cooked_lobster_tail_campfire": {
+    "criteria": {
+      "has_items": "2025-06-16 02:40:28 +0000"
     },
     "done": true
   },
@@ -527,6 +581,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_lobster_tail": {
+    "criteria": {
+      "has_items": "2025-06-16 02:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-16 01:39:39 +0000"
@@ -611,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-16 01:43:18 +0000"
@@ -635,9 +701,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-16 01:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-16 02:35:51 +0000"
     },
     "done": true
   },
@@ -645,9 +729,23 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-16 02:14:37 +0000",
       "minecraft:spider": "2025-06-16 02:05:42 +0000",
+      "minecraft:creeper": "2025-06-16 02:32:42 +0000",
+      "minecraft:phantom": "2025-06-16 02:39:46 +0000",
       "minecraft:zombie": "2025-06-16 02:05:48 +0000"
     },
     "done": false
+  },
+  "alexsmobs:recipes/food/cooked_lobster_tail_smoke": {
+    "criteria": {
+      "has_items": "2025-06-16 02:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
@@ -658,6 +756,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-16 01:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
     },
     "done": true
   },
@@ -703,6 +807,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:32:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-16 01:39:39 +0000"
@@ -742,6 +852,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-16 01:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-16 02:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
     },
     "done": true
   },
@@ -814,6 +936,18 @@
   "botania:recipes/botania/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-06-16 02:10:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-16 02:35:51 +0000"
     },
     "done": true
   },
@@ -937,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-16 02:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-06-16 01:43:29 +0000"
@@ -1033,6 +1173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-16 02:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-16 01:39:12 +0000"
@@ -1051,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-16 02:33:22 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/undergarden_scaffolding": {
     "criteria": {
       "has_stick": "2025-06-16 01:39:39 +0000"
@@ -1060,6 +1212,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-06-16 01:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-16 02:24:04 +0000"
     },
     "done": true
   },
@@ -1120,6 +1278,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-16 02:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
     },
     "done": true
   },
@@ -1185,6 +1349,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-06-16 02:39:59 +0000",
       "minecraft:river": "2025-06-16 01:45:43 +0000",
       "minecraft:forest": "2025-06-16 01:36:25 +0000",
       "minecraft:savanna": "2025-06-16 01:44:20 +0000",
@@ -1195,6 +1360,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-16 02:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
     },
     "done": true
   },
@@ -1336,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-16 02:07:53 +0000"
@@ -1345,6 +1522,12 @@
   "botania:recipes/botania/petal_green": {
     "criteria": {
       "has_item": "2025-06-16 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-16 02:41:17 +0000"
     },
     "done": true
   },
@@ -1408,6 +1591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-06-16 01:43:29 +0000"
@@ -1468,9 +1657,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-06-16 02:39:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-06-16 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-16 02:39:46 +0000"
     },
     "done": true
   },
