@@ -1,0 +1,371 @@
+
+[general]
+	#Maximum world y-level that cave loaches can spawn at
+	#Range: -64 ~ 320
+	caveloachSpawnHeight = 30
+	#Maximum world y-level that deep crawlers can spawn at
+	#Range: -64 ~ 320
+	deepCrawlerSpawnHeight = 20
+	#Maximum world y-level that prawns can spawn at
+	#Range: -64 ~ 320
+	prawnSpawnHeight = 0
+	#Maximum world y-level that false swordfish can spawn at
+	#Range: -64 ~ 320
+	falseSwordfishSpawnHeight = 0
+	#Maximum world y-level that hatchet fish can spawn at
+	#Range: -64 ~ 320
+	hatchetFishSpawnHeight = 0
+	#Maximum world y-level that mossthorns can spawn at
+	#Range: -64 ~ 320
+	mossthornSpawnHeight = 40
+	#Maximum world y-level that shockcats can spawn at
+	#Range: -64 ~ 320
+	shockcatSpawnHeight = 10
+	#Maximum world y-level that smelter snails can spawn at
+	#Range: -64 ~ 320
+	smelterSnailSpawnHeight = -10
+
+	[general.spawning]
+		#Change the spawn weight for Aero Monos. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		aeroMonoSpawnWeight = 30
+		#Change the roll chance for Aero Monos. Higher number = lower chance of spawning
+		#Range: > 0
+		aeroMonoSpawnRolls = 0
+		#Change the spawn weight for Ahmar Idols. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		ahmarIdolSpawnWeight = 20
+		#Change the roll chance for Ahmar Idols. Higher number = lower chance of spawning
+		#Range: > 0
+		ahmarIdolSpawnRolls = 0
+		#Change the spawn weight for Bark Angelfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		barkAngelSpawnWeight = 30
+		#Change the roll chance for Bark Angelfish. Higher number = lower chance of spawning
+		#Range: > 0
+		barkAngelSpawnRolls = 0
+		#Change the spawn weight for Baby Basking Tiamats. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		baskingTiamaitBabySpawnWeight = 10
+		#Change the roll chance for Baby Basking Tiamats. Higher number = lower chance of spawning
+		#Range: > 0
+		baskingTiamaitBabySpawnRolls = 40
+		#Change the spawn weight for Basking Tiamats. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		baskingTiamaitSpawnWeight = 2
+		#Change the roll chance for Basking Tiamats. Higher number = lower chance of spawning
+		#Range: > 0
+		baskingTiamaitSpawnRolls = 0
+		#Change the spawn weight for Beaked Herring. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		beakedHerringSpawnWeight = 30
+		#Change the roll chance for Beaked Herring. Higher number = lower chance of spawning
+		#Range: > 0
+		beakedHerringSpawnRolls = 0
+		#Change the spawn weight for Blackcap Snails. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		blackcapSnailSpawnWeight = 30
+		#Change the roll chance for Blackcap Snails. Higher number = lower chance of spawning
+		#Range: > 0
+		blackcapSnailSpawnRolls = 0
+		#Change the spawn weight for Blizzardfin Tuna. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		blizzardfinTunaSpawnWeight = 30
+		#Change the roll chance for Blizzardfin Tuna. Higher number = lower chance of spawning
+		#Range: > 0
+		blizzardfinTunaSpawnRolls = 0
+		#Change the roll chance for Brick Snails. Higher number = lower chance of spawning
+		#Range: > 0
+		brickSnailSpawnWeight = 30
+		#Change the spawn weight for Bumpfaces. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		bumpfaceSpawnWeight = 30
+		#Change the roll chance for Bumpfaces. Higher number = lower chance of spawning
+		#Range: > 0
+		bumpfaceSpawnRolls = 0
+		#Change the spawn weight for Cave Loaches. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		caveloachSpawnWeight = 30
+		#Change the roll chance for Prawns. Higher number = lower chance of spawning
+		#Range: > 0
+		caveloachSpawnRolls = 1
+		#Change the spawn weight for Celestial Fish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		celestialFishSpawnWeight = 2
+		#Change the roll chance for Celestial Fish. Higher number = lower chance of spawning
+		#Range: > 0
+		celestialFishSpawnRolls = 0
+		#Change the spawn weight for Circus Fish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		circusFishSpawnWeight = 30
+		#Change the roll chance for Circus Fish. Higher number = lower chance of spawning
+		#Range: > 0
+		circusFishSpawnRolls = 0
+		#Change the spawn weight for Clownthorn Sharks. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		clownthornSharkSpawnWeight = 30
+		#Change the roll chance for Clownthorn Sharks. Higher number = lower chance of spawning
+		#Range: > 0
+		clownthornSharkSpawnRolls = 0
+		#Change the spawn weight for Copperflame Anthias. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		copperflameAnthiasSpawnWeight = 30
+		#Change the roll chance for Copperflame Anthias. Higher number = lower chance of spawning
+		#Range: > 0
+		copperflameAnthiasSpawnRolls = 0
+		#Change the spawn weight for Coral Skrimp. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		coralSkrimpSpawnWeight = 30
+		#Change the roll chance for Coral Skrimp. Higher number = lower chance of spawning
+		#Range: > 0
+		coralSkrimpSpawnRolls = 0
+		#Change the spawn weight for Deep Crawlers. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		deepCrawlerSpawnWeight = 30
+		#Change the roll chance for Deep Crawlers. Higher number = lower chance of spawning
+		#Range: > 0
+		deepCrawlerSpawnRolls = 0
+		#Change the spawn weight for Demon Herring. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		demonHerringSpawnWeight = 30
+		#Change the roll chance for Demon Herring. Higher number = lower chance of spawning
+		#Range: > 0
+		demonHerringSpawnRolls = 0
+		#Change the spawn weight for Prawns. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		prawnSpawnWeight = 20
+		#Change the spawn weight for Dragon Bichir. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		dragonBichirSpawnWeight = 10
+		#Change the roll chance for Dragon Bichir. Higher number = lower chance of spawning
+		#Range: > 0
+		dragonBichirSpawnRolls = 0
+		#Change the spawn weight for Duality Damselfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		dualityDamselfishSpawnWeight = 10
+		#Change the roll chance for Duality Damselfish. Higher number = lower chance of spawning
+		#Range: > 0
+		dualityDamselfishSpawnRolls = 0
+		#Change the spawn weight for False Swordfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		falseSwordfishSpawnWeight = 30
+		#Change the roll chance for False Swordfish. Higher number = lower chance of spawning
+		#Range: > 0
+		falseSwordfishSpawnRolls = 1
+		#Change the spawn weight for Fork Fish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		forkFishSpawnWeight = 20
+		#Change the roll chance for Fork Fish. Higher number = lower chance of spawning
+		#Range: > 0
+		forkFishSpawnRolls = 0
+		#Change the spawn weight for Freshwater Mantis. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		freshwaterMantisSpawnWeight = 10
+		#Change the roll chance for Freshwater Mantis. Higher number = lower chance of spawning
+		#Range: > 0
+		freshwaterMantisSpawnRolls = 0
+		#Change the spawn weight for Gnashers. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		gnasherSpawnWeight = 10
+		#Change the roll chance for Gnashers. Higher number = lower chance of spawning
+		#Range: > 0
+		gnasherSpawnRolls = 0
+		#Change the spawn weight for Gravel Flounders. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		gravelFlounderSpawnWeight = 10
+		#Change the roll chance for Gravel Flounders. Higher number = lower chance of spawning
+		#Range: > 0
+		gravelFlounderSpawnRolls = 40
+		#Change the spawn weight for Handy Gourami. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		handyGouramiSpawnWeight = 30
+		#Change the roll chance for Handy Gourami. Higher number = lower chance of spawning
+		#Range: > 0
+		handyGouramiSpawnRolls = 0
+		#Change the spawn weight for Hatchet Fish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		hatchetFishSpawnWeight = 30
+		#Change the roll chance for Hatchet Fish. Higher number = lower chance of spawning
+		#Range: > 0
+		hatchetFishSpawnRolls = 0
+		#Change the spawn weight for Humpback Pogglings. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		humpbackPogglingSpawnWeight = 20
+		#Change the roll chance for Humpback Pogglings. Higher number = lower chance of spawning
+		#Range: > 0
+		humpbackPogglingSpawnRolls = 0
+		#Change the spawn weight for Kalappa. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		kalappaSpawnWeight = 8
+		#Change the roll chance for Kalappa. Higher number = lower chance of spawning
+		#Range: > 0
+		kalappaSpawnRolls = 1
+		#Change the spawn weight for Lobed Skipper. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		lobedSkipperSpawnWeight = 8
+		#Change the roll chance for Lobed Skipper. Higher number = lower chance of spawning
+		#Range: > 0
+		lobedSkipperSpawnRolls = 1
+		#Change the spawn weight for Mana Jellyfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		manaJellyfishSpawnWeight = 30
+		#Change the roll chance for Mana Jellyfish. Higher number = lower chance of spawning
+		#Range: > 0
+		manaJellyfishSpawnRolls = 0
+		#Change the spawn weight for Mossthorns. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		mossthornSpawnWeight = 30
+		#Change the roll chance for Mossthorns. Higher number = lower chance of spawning
+		#Range: > 0
+		mossthornSpawnRolls = 0
+		#Change the spawn weight for Mud Pigs. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		mudPigSpawnWeight = 30
+		#Change the roll chance for Mud Pigs. Higher number = lower chance of spawning
+		#Range: > 0
+		mudPigSpawnRolls = 0
+		#Change the spawn weight for Pickle Fish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		pickleFishSpawnWeight = 10
+		#Change the roll chance for Pickle Fish. Higher number = lower chance of spawning
+		#Range: > 0
+		pickleFishSpawnRolls = 40
+		#Change the spawn weight for Porcupine Lobsters. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		porcupineLobsterSpawnWeight = 20
+		#Change the roll chance for Porcupine Lobsters. Higher number = lower chance of spawning
+		#Range: > 0
+		porcupineLobsterSpawnRolls = 0
+		#Change the spawn weight for Red Giant Sea Stars. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		redGiantSeaStarSpawnWeight = 10
+		#Change the roll chance for Red Giant Sea Stars. Higher number = lower chance of spawning
+		#Range: > 0
+		redGiantSeaStarSpawnRolls = 0
+		#Change the spawn weight for Rhino Tetra. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		rhinoTetraSpawnWeight = 30
+		#Change the roll chance for Rhino Tetra. Higher number = lower chance of spawning
+		#Range: > 0
+		rhinoTetraSpawnRolls = 0
+		#Change the spawn weight for Rippers. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		ripperSpawnWeight = 20
+		#Change the roll chance for Rippers. Higher number = lower chance of spawning
+		#Range: > 0
+		ripperSpawnRolls = 0
+		#Change the spawn weight for Rootballs. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		rootballSpawnWeight = 40
+		#Change the roll chance for Rootballs. Higher number = lower chance of spawning
+		#Range: > 0
+		rootballSpawnRolls = 0
+		#Change the spawn weight for Sailor Barbs. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		sailorBarbSpawnWeight = 30
+		#Change the roll chance for Sailor Barbs. Higher number = lower chance of spawning
+		#Range: > 0
+		sailorBarbSpawnRolls = 0
+		#Change the spawn weight for Sea Mosquitos. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		seaMosquitoSpawnWeight = 10
+		#Change the roll chance for Sea Mosquitos. Higher number = lower chance of spawning
+		#Range: > 0
+		seaMosquitoSpawnRolls = 40
+		#Change the spawn weight for Sea Pancakes. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		seaPancakeSpawnWeight = 20
+		#Change the roll chance for Sea Pancakes. Higher number = lower chance of spawning
+		#Range: > 0
+		seaPancakeSpawnRolls = 0
+		#Change the spawn weight for Crowned Sea Spiders. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		seaSpiderSpawnWeight = 20
+		#Change the roll chance for Crowned Sea Spiders. Higher number = lower chance of spawning
+		#Range: > 0
+		seaSpiderSpawnRolls = 0
+		#Change the spawn weight for Shockcats. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		shockcatSpawnWeight = 20
+		#Change the roll chance for Shockcats. Higher number = lower chance of spawning
+		#Range: > 0
+		shockcatSpawnRolls = 0
+		#Change the spawn weight for Veil Squids. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		skateSquidSpawnWeight = 10
+		#Change the roll chance for Veil Squids. Higher number = lower chance of spawning
+		#Range: > 0
+		skateSquidSpawnRolls = 0
+		#Change the spawn weight for Smelter Snails. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		smelterSnailSpawnWeight = 10
+		#Change the roll chance for Smelter Snails. Higher number = lower chance of spawning
+		#Range: > 0
+		smelterSnailSpawnRolls = 0
+		#Change the spawn weight for Spindle Fish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		spindleFishSpawnWeight = 20
+		#Change the roll chance for Spindle Fish. Higher number = lower chance of spawning
+		#Range: > 0
+		spindleFishSpawnRolls = 0
+		#Change the spawn weight for Spoon Sharks. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		spoonSharkSpawnWeight = 20
+		#Change the roll chance for Spoon Sharks. Higher number = lower chance of spawning
+		#Range: > 0
+		spoonSharkSpawnRolls = 0
+		#Change the spawn weight for Squoddles. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		squoddleSpawnWeight = 10
+		#Change the roll chance for Squoddles. Higher number = lower chance of spawning
+		#Range: > 0
+		squoddleSpawnRolls = 0
+		#Change the spawn weight for Thorny Guitarfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		thornyGuitarfishSpawnWeight = 20
+		#Change the roll chance for Thorny Guitarfish. Higher number = lower chance of spawning
+		#Range: > 0
+		thornyGuitarfishSpawnRolls = 0
+		#Change the spawn weight for Thorny Snail. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		thornySnailSpawnWeight = 20
+		#Change the roll chance for Thorny Snail. Higher number = lower chance of spawning
+		#Range: > 0
+		thornySnailSpawnRolls = 0
+		#Change the spawn weight for Tiger Pufferfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		tigerPufferSpawnWeight = 20
+		#Change the roll chance for Tiger Pufferfish. Higher number = lower chance of spawning
+		#Range: > 0
+		tigerPufferSpawnRolls = 0
+		#Change the spawn weight for Triple Twirl Plecos. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		tripleTwirlPlecoSpawnWeight = 30
+		#Change the roll chance for Triple Twirl Plecos. Higher number = lower chance of spawning
+		#Range: > 0
+		tripleTwirlPlecoSpawnRolls = 0
+		#Change the spawn weight for Trumpet Squids. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		trumpetSquidSpawnWeight = 20
+		#Change the roll chance for Trumpet Squids. Higher number = lower chance of spawning
+		#Range: > 0
+		trumpetSquidSpawnRolls = 0
+		#Change the spawn weight for Whiskered Whale Sharks. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		whiskeredWhaleSharkSpawnWeight = 10
+		#Change the roll chance for Whiskered Whale Sharks. Higher number = lower chance of spawning
+		#Range: > 0
+		whiskeredWhaleSharkSpawnRolls = 0
+		#Change the spawn weight for Yellow Whip Gobies. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		yellowWhipGobySpawnWeight = 30
+		#Change the roll chance for Yellow Whip Gobies. Higher number = lower chance of spawning
+		#Range: > 0
+		yellowWhipGobySpawnRolls = 0
+		#Change the spawn weight for Zebra Cornetfish. Higher number = higher chance of spawning. 0 = disable spawn
+		#Range: 0 ~ 1000
+		zebraCornetfishSpawnWeight = 20
+		#Change the roll chance for Zebra Cornetfish. Higher number = lower chance of spawning
+		#Range: > 0
+		zebraCornetfishSpawnRolls = 0
+
